@@ -72,30 +72,6 @@ Here are some of the projects I'm developing and improving:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 Current Goals
-
-- [ ] Build more production-ready applications.
-- [ ] Improve my software architecture and clean code skills.
-- [ ] Develop advanced REST APIs with Spring Boot.
-- [ ] Improve my knowledge of Docker and cloud technologies.
-- [ ] Contribute to open-source projects.
-- [ ] Secure an international Software Engineering Internship for Summer 2027.
-
----
-
 ## 🌍 Languages
 
 - 🇲🇦 Arabic
@@ -107,13 +83,13 @@ Here are some of the projects I'm developing and improving:
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/redasbai05">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="www.linkedin.com/in/reda-sbai">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:redasbaiwork@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
