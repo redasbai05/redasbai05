@@ -1,16 +1,131 @@
-## Hi there 👋
+# 👋 Hi, I'm a Computer Science Engineering Student
 
-<!--
-**redasbai05/redasbai05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Software Engineer in the Making | Full-Stack Developer | Backend Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Java+%26+Spring+Boot+Developer;Full-Stack+Developer;React+%26+Node.js+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+🎓 I'm a **4th-year Computer Science Engineering student at EMSI, Morocco**, expected to graduate in **2028**.
+
+💡 Passionate about software engineering, backend development, and building practical applications.
+
+- 🔭 Currently working on personal software development projects.
+- 🌱 Improving my skills in **Java, Spring Boot, React, Node.js and Docker**.
+- 💻 Interested in Backend Engineering, Full-Stack Development and Cloud Technologies.
+- 🤝 Open to international internship opportunities for **Summer 2027**.
+- 🌍 Based in Morocco.
+- ⚡ I enjoy turning ideas into real-world applications.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js" />
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### 🔧 DevOps & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+Here are some of the projects I'm developing and improving:
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🚀 Backend Application | REST API and backend development | Java, Spring Boot |
+| 🌐 Full-Stack Application | Interactive web application | React, Node.js |
+| 🐍 Python Project | Programming and automation | Python |
+| 🐳 Docker Project | Application containerization | Docker |
+
+> Check my repositories for more projects. I'll keep this section updated as I build and publish new work.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- [ ] Build more production-ready applications.
+- [ ] Improve my software architecture and clean code skills.
+- [ ] Develop advanced REST APIs with Spring Boot.
+- [ ] Improve my knowledge of Docker and cloud technologies.
+- [ ] Contribute to open-source projects.
+- [ ] Secure an international Software Engineering Internship for Summer 2027.
+
+---
+
+## 🌍 Languages
+
+- 🇲🇦 Arabic
+- 🇫🇷 French
+- 🇬🇧 English (B2)
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💙 <b>Thanks for visiting my profile!</b>
+  <br/>
+  <i>Building, learning, and growing one project at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
