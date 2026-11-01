@@ -57,21 +57,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-Here are some of the projects I'm developing and improving:
-
-| Project | Description | Technologies |
-|---|---|---|
-| 🚀 Backend Application | REST API and backend development | Java, Spring Boot |
-| 🌐 Full-Stack Application | Interactive web application | React, Node.js |
-| 🐍 Python Project | Programming and automation | Python |
-| 🐳 Docker Project | Application containerization | Docker |
-
-> Check my repositories for more projects. I'll keep this section updated as I build and publish new work.
-
----
-
 ## 🌍 Languages
 
 - 🇲🇦 Arabic
